@@ -1,0 +1,24 @@
+state,reason,event
+0," localhost rta 0.059ms lost 0%
+",host_ok
+0," localhost rta 0.112ms lost 0%
+",host_ok
+0," localhost rta 0.073ms lost 0%
+",host_ok
+1,check_icmp,host_down
+0," localhost rta 0.082ms lost 0%
+",host_ok
+0," localhost rta 0.071ms lost 0%
+",host_ok
+0," localhost rta 12.092ms lost 0%
+",host_ok
+0," localhost rta 0.175ms lost 0%
+",host_ok
+0," localhost rta 0.099ms lost 0%
+",host_ok
+0," localhost rta 0.069ms lost 0%
+",host_ok
+0," localhost rta 0.051ms lost 0%
+",host_ok
+0,"(Host assumed to be UP)
+",host_ok
